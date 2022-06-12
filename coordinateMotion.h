@@ -1,7 +1,7 @@
 // This is the UNO Robotics Coordinate Motion Library. It includes the basic and advanced motion libraries, adapts them,
 // and includes functions that allow for coordinate based motion.
 
-// Written by Michael Ceraso, February 2020
+// Written by Dylan Vo, March 2020
 // Version 1.1
 
 #include "constants.h"
