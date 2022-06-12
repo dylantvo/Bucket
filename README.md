@@ -36,4 +36,16 @@ Our plan for achieving the most points was to gather all trash and deliver it to
 
 # Design
 
-The bucket robot consists
+![IMG_7803](https://user-images.githubusercontent.com/106710808/173253231-d3029c83-24fb-4798-b3fd-fa7bb197962f.jpg)
+
+**Chassis**
+
+Bucket consists of a large acryllic chassis with a sweeping mechanism for retrieving and storing trash. Using four mecanum wheels driven by NEMA stepper motors, bucket is capable of moving precisely with relatively low power. 
+
+**Electrical System**
+
+Bucket is powered by a custom Li-Po battery pack in a 4S2P configuration (~14.8V nominal). Two buck/boost converters use this battery pack to create a 21V and 5V distribution. The stepper motors and the sweeping mechanism motor is powered by the 21V distribution. The ultrasonic sensors are powered by the 5V distribution. All devices are controlled by an Arduino Mega microcontroller.
+
+**Program**
+
+In order to retrieve all 
