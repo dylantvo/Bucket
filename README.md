@@ -59,33 +59,33 @@ Video of Bucket: https://www.youtube.com/watch?v=kkj2QAQp_2s
 **Mechanical**
 
 
-Tim Ash
+- Tim Ash
 
-Jaime McCarroll
+- Jaime McCarroll
 
 
 **Electrical**
 
 
-Michael Ceraso
+- Michael Ceraso
 
-Dylan Vo
+- Dylan Vo
 
-Sean Demers
+- Sean Demers
 
-John McGraw
+- John McGraw
 
-Anne Kroll
+- Anne Kroll
 
-Floyd Andrus
+- Floyd Andrus
 
-Angela Ellis
+- Angela Ellis
 
 **Programming**
 
 
-Michael Ceraso
+- Michael Ceraso
 
-Dylan Vo
+- Dylan Vo
 
-Sean Demers
+- Sean Demers
