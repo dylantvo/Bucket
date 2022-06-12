@@ -1,3 +1,5 @@
+// Written by Dylan Vo, March 2020
+
 #include "stepperMotorShield.h"
 #include "coordinateMotion.h"
 #include "bucket_compass.h"
