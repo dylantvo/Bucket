@@ -44,8 +44,36 @@ Bucket consists of a large acryllic chassis with a sweeping mechanism for retrie
 
 **Electrical System**
 
-Bucket is powered by a custom Li-Po battery pack in a 4S2P configuration (~14.8V nominal). Two buck/boost converters use this battery pack to create a 21V and 5V distribution. The stepper motors and the sweeping mechanism motor is powered by the 21V distribution. The ultrasonic sensors are powered by the 5V distribution. All devices are controlled by an Arduino Mega microcontroller.
+Bucket is powered by a custom Li-Po battery pack in a 4S2P configuration (~14.8V nominal). Two buck/boost converters use this battery pack to create a 30V and 5V distribution. The stepper motors and the sweeping mechanism motor is powered by the 30V distribution. The ultrasonic sensors are powered by the 5V distribution. All devices are controlled by an Arduino Mega microcontroller.
 
 **Program**
 
-In order to retrieve all 
+Bucket will prioritize deactivating the litterbug robot at the beginning of the round to maximize points. Once this operation has been completed, it will begin to retrieve the trash. In order to retrieve all trash on the field, Bucket will run through a sequence that will allow it to cover each block of the 12'x12' playing field. It then proceeds to the trash bin and operates the sweeping mechanism in reverse, pushing the trash out.
+
+
+Video of Bucket: https://www.youtube.com/watch?v=kkj2QAQp_2s
+
+
+# Contributors
+
+**Mechanical**
+
+Tim Ash
+Jaime McCarroll
+
+
+**Electrical**
+
+Michael Ceraso
+Dylan Vo
+Sean Demers
+John McGraw
+Anne Kroll
+Floyd Andrus
+Angela Ellis
+
+**Programming**
+
+Michael Ceraso
+Dylan Vo
+Sean Demers
