@@ -30,4 +30,10 @@ dispense, as indicated by the litterbug lights going out. An additional +2 point
 bonus will be awarded if the litterbug has been persuaded to no longer dispense
 any of the types of litter, as indicated by all four lights going out.
 
-Our plan for achieving the most points was to 
+
+Our plan for achieving the most points was to gather all trash and deliver it to the trash bin, regardless of the type of trash. By doing this, we would maximize our points while minimizing the amount of time retrieving the trash. This strategy would also allow us to focus on deactivating the litterbug. Since points are not deducted for delivering trash to the incorrect bin and that we would be rewarded significantly more points for prioritizing deactivating the litterbug, we felt this would be the most efficient method.
+
+
+# Design
+
+The bucket robot consists
