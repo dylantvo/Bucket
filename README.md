@@ -56,6 +56,8 @@ Video of Bucket: https://www.youtube.com/watch?v=kkj2QAQp_2s
 
 # Contributors
 
+Supervised by Dr. Jeffrey F. Gray
+
 **Mechanical**
 
 
