@@ -8,7 +8,7 @@
 // The shield is compatible with every Stepper Motor Driver Compact Carrier from Pololu, and currently has functions defined for:
 // (a.) TB67S249FTG Stepper Motor Driver Compact Carrier: https://www.pololu.com/product/3096.
 
-// Written by Michael Ceraso, February 2020
+// Written by Dylan Vo, March 2020
 // Version 1.1
 
 // STEPPER MOTOR SHIELD CONSTANTS
