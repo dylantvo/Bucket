@@ -58,12 +58,14 @@ Video of Bucket: https://www.youtube.com/watch?v=kkj2QAQp_2s
 
 **Mechanical**
 
+
 Tim Ash
 
 Jaime McCarroll
 
 
 **Electrical**
+
 
 Michael Ceraso
 
@@ -80,6 +82,7 @@ Floyd Andrus
 Angela Ellis
 
 **Programming**
+
 
 Michael Ceraso
 
